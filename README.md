@@ -28,6 +28,10 @@ After compiled the program in your IDE you will be able to run in your terminal.
 
 To execute it you have to go to the "out" or "bin" folder in the project and find the application folder, there you can open your terminal inside it or outside and run it by typing:  
 
+
+"java application/Program" (if outside application folder)"  
+"java Program" (if inside application folder)"
+
 #
 _Português:_  
 Após compilar o programa na sua IDE, você poderá executá-lo no seu terminal. Para ter uma melhor visualização do projeto em funcionamento no seu computador, você precisará executar este programa no seu terminal, de preferência um com cores.  
